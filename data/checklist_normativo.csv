@@ -1,0 +1,9 @@
+requisito,aplica_a,responsable,evidencia,estado_default,observacion,estado
+Registro Sanitario INVIMA,Ambos,Importador,Resolución/Registro,Pendiente,nan,OK
+Registro de Importación (VUCE),Ambos,Importador,Registro aprobado,Pendiente,nan,OK
+Certificado EUR.1,Ambos,Proveedor,Documento de origen,Pendiente,nan,Pendiente
+Factura comercial,Ambos,Proveedor,Factura,Pendiente,nan,Pendiente
+Lista de empaque,Ambos,Proveedor,Packing list,Pendiente,nan,Pendiente
+Bill of Lading (BL),Ambos,Naviera,BL,Pendiente,nan,OK
+Declaración de Importación,Ambos,Agencia,DI,Pendiente,nan,Pendiente
+Certificado de Inspección Sanitaria (CIS),Ambos,Agencia,CIS,Pendiente,nan,OK

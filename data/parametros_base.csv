@@ -1,0 +1,12 @@
+parametro,valor,unidad,nota
+trm_cop_usd,4000,COP/USD,base
+flete_usd_base,4500,USD,base
+seguro_pct_cif,0.01,fraccion,1%
+litros_contenedor_embotellado,11250,L,40ft
+litros_contenedor_flexitank,24000,L,40ft
+
+iva_pct,0.05,fraccion,IVA
+consumo_adval_pct,0.20,fraccion,Consumo ad valorem
+arancel_pref_eur1,0.00,fraccion,Arancel con EUR.1
+arancel_sin_eur1,0.15,fraccion,Arancel sin EUR.1 (ajustable)
+botella_l,0.75,L,Volumen botella
